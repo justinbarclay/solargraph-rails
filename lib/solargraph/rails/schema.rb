@@ -14,6 +14,7 @@ module Solargraph
         text: 'String',
         jsonb: 'Hash',
         json: 'Hash',
+        hstore: 'Hash',
         bigint: 'Integer',
         uuid: 'String',
         inet: 'IPAddr',
